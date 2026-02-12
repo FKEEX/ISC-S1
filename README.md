@@ -1,10 +1,10 @@
 # ISC-S1
 GLOSARIO
-**1.Como se define un sistema de computo?
+1.Como se define un sistema de computo?
   Un sistema de computo se divide en varios componentes que reciben datos, los procesasn y producen información útil, tambien por componen
   de diferentes componenetes, por ejemplo, el hadware + saftware + datos + usuarios + prodecimientos.
   
-2.Como se puede componer un sistema?
+  2.Como se puede componer un sistema?
   Un sistema puede ser: PC, Movil, servidor, un servicio en la nube o un sistema embebido.
   
 3.Cuantos modelos basicos existen de entrada?
