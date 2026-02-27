@@ -57,3 +57,33 @@ GLOSARIO
 15.Qué es el Internet?
   Red informática mundial, descentralizada, formada por la conexión directa
   entre computadoras mediante un protocolo especial de comunicación.
+
+16.Qué es el Kernel (núcleo)?
+  Administra procesos, memoria, E/S, seguridad y ofrece servicios a las aplicaciones (a través de llamadas al sistema).
+  
+17.Qué son los Drivers (controladores)?
+  Gestionan hardware específico como impresoras, tarjetas de video, teclado, etc.
+
+18.Qúé es el Sistema de archivos?
+  Organiza y controla acceso a datos: creación, lectura, escritura, borrado y permisos. Ejemplos: NTFS (Windows), APFS (macOS), ext4 (Linux).
+
+19.Qué es la RAM?
+  Memoria principal donde residen los programas en ejecución (mesa de trabajo).
+
+20.Qué es la Memoria Virual?
+  Uso del disco duro para simular RAM cuando esta se agota (swap/pagefile).
+
+21.Qué hace el Administrador de recursos?
+  Decide cómo se usan CPU, RAM, disco, red y dispositivos.
+
+22.Qué hace un Intermediario?
+  Conecta aplicaciones con hardware mediante drivers (controladores), servicios y llamadas al sistema.
+
+23.Qué es un proceso?
+  Programa en ejecución
+
+24.Qué son Hilos(Threads)
+  Tareas dentro de un proceso
+
+25.Qué es una Multitarea?
+ Permite que parezca que varios procesos se ejecutan simultáneamente, alternando el uso de la CPU
